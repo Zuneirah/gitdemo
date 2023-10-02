@@ -6,7 +6,10 @@ public class CountWords {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//count of words new code added by samir
+		
 		String str = "This this is is done by Saket Saket";
+		
 		String [] split = str.split(" ");
 		HashMap<String,Integer> map = new HashMap<String,Integer>();
 		
